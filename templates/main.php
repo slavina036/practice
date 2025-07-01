@@ -9,5 +9,6 @@
     </h1>
     <p><a href="./?action=about">О компании</a></p>
     <p><a href="./?action=contacts">Контакты</a></p>
+    <p><a href="admin.php">Страница для авторизованного пользователя</a></p>
 </body>
 </html>
